@@ -1,6 +1,7 @@
 # microsofttools
 this repositries is test wheather microsoft tools can manage by git or not. 
 
+進捗メモ2023
 文字の大きさ
 題目は12px
 それ以外は10.5px
@@ -9,8 +10,14 @@ this repositries is test wheather microsoft tools can manage by git or not.
 ・画像のディレクトリは名前のあいうえお順
 ・ソースコードはディレクトリの名前順に沿って、ファイル読み込み
 
-ピクセルの表記
-・題名ではピクセル
-・研究結果ではpx表記
+検索時のルール
+・バッチの記載はバッチサイズ
+・題名ではpx
+・研究結果ではピクセル表記
+・データの数値は半角
+
+1つ目が他人受入率のデータ2つ目が本人拒否率のデータの順で記載を行う
+他人受入率の評価は閾値以上で検出したもの
+本人拒否率の評価は閾値未満で検出したもの
 
 
